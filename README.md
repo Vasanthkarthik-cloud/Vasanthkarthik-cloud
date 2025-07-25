@@ -2,4 +2,3 @@
 
 - 🔭 I’m currently working on linux, docker and kubernetes.
 - 📫 How to reach me: https://www.linkedin.com/in/vasanthk2724/
--->
